@@ -21,7 +21,7 @@ x
 end
 
 def last_evaluated_value
-
+  x = "expert"
 end
 
 def pizza_party
